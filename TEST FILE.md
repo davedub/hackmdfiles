@@ -1,6 +1,6 @@
 # TEST FILE  
 
-*This is simply a test file, from a stab at righting a letter to the editory back in 2022, that I am using to  investigate how to use hackmd.*
+*This is  test file I am using, it was a draft of a letter to the editor to the Seattle Times in 2022. The submitted version was much revised and was never published. This is an early version that I am using to  soly investigate how to use hackmd and push to Github.*
 
 ![](https://i.imgur.com/oWOdPUr.jpg)
 
@@ -13,6 +13,4 @@ All well and good, you may think, and long overdue because unlike the song from 
 
 Mr. Hagopian's thinking - as well as those leading the group "Washington Ethnic Studies Now," has become deeply entrenched in statewide efforts to revamp K-12 education. Their goal is for such lessons not to be just taught at school, but pounded into the skulls of all of our childrens' minds. No, it won't just be "Black History Month" after they are done. From here on out, we will cram this way of thinking about our country into every subject covered across the school day because we need to raise a new generation that finally learns how to break the shackles of our racist society. 
 
-These educators - if you can call them that, rather than propagandists - feel empowered to do this because in 2019, our legislature passed a bill that directed OSPI to create "ethnic studies materials" so that they could better learn how to be "global citizens in a global society with an appreciation for the contributions of multiple cultures.” Amazingly, OSPI has been going along with the gag ever since it formed an "advisory committee," at the legislature's behest, to validate and rubber stamp this thinking before it's rolled out. 
-
-defend its usefulness claim the right is on a witch hunt against anyone teaching it to our kids. But curiously, and at the same time, they often also said it's an advanced theory that requires a nuanced understanding of the many "interdisciplinary" forces at work in , thus only suitable for instruction at a very advanced, post-graduate college level) country are now determined to institutionalize it in K-12 education. They seek 
+These educators feel empowered to do this because in 2019, our legislature passed a bill that directed OSPI to create "ethnic studies materials" so that they could better learn how to be "global citizens in a global society with an appreciation for the contributions of multiple cultures.” Amazingly, OSPI has been going along with the gag ever since it formed an "advisory committee," at the legislature's behest, to validate and rubber stamp this thinking before it's rolled out. But it's early days yet and eventually, when people see what is happening, OSPI may see a need to change course.
