@@ -1,6 +1,6 @@
-# TEST FILE  
+# Draft of an Op-Ed
 
-*This is  test file I am using, it was a draft of a letter to the editor to the Seattle Times in 2022. The submitted version was much revised and was never published. This is an early version that I am using to  soly investigate how to use hackmd and push to Github.*
+*A revised version of this draft letter was submitted to the opinions editor to the Seattle Times in 2022. It was not accepted for publication. This earlier version is added here solely to explore how to use HackMD and push it as a project into Github repository.*
 
 ![](https://i.imgur.com/oWOdPUr.jpg)
 
